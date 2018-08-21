@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header/>
+  <Topic Guid="6d2e5090-a562-11e8-a638-eb5f8623ba4e" TopicStatus="in progress" TopicType="for_information">
+    <Title>ventana_anotacion</Title>
+    <Priority>low</Priority>
+    <CreationDate>2018-08-21T16:51:19+00:00</CreationDate>
+    <CreationAuthor>nmartindorta</CreationAuthor>
+    <Description>anotacion ventana</Description>
+  </Topic>
+  <Viewpoints Guid="e78ea64b-3f72-41c2-9e28-3c33c8e9c4a9">
+    <Viewpoint>viewpoint.bcfv</Viewpoint>
+    <Snapshot>snapshot.png</Snapshot>
+  </Viewpoints>
+</Markup>
